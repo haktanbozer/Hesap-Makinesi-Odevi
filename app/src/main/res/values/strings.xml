@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Hesap Makinesi Odevi</string>
+
+    <string name="sifir">0</string>
+    <string name="bir">1</string>
+    <string name="iki">2</string>
+    <string name="uc">3</string>
+    <string name="dort">4</string>
+    <string name="bes">5</string>
+    <string name="alti">6</string>
+    <string name="yedi">7</string>
+    <string name="sekiz">8</string>
+    <string name="dokuz">9</string>
+
+    <string name="sil">C</string>
+    <string name="topla">+</string>
+    <string name="cikar">-</string>
+    <string name="carp">*</string>
+    <string name="bol">/</string>
+    <string name="esittir">=</string>
+    <string name="nokta">.</string>
+    <string name="isaret">+/-</string>
+    <string name="parantez">()</string>
+    <string name="geri">⌫</string>
+
+    <string name="display">Değer Giriniz</string>
+</resources>
