@@ -12,7 +12,6 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
 
   private EditText usersInputBox;
-
   private Button btnSil;
   private Button btnSifir;
   private Button btnBir;
@@ -266,7 +265,6 @@ public class MainActivity extends AppCompatActivity {
     usersInputBox.setShowSoftInputOnFocus(false);
 
     btnGeri = findViewById(R.id.btnGeri);
-
     btnSifir = findViewById(R.id.btnSifir);
     btnBir= findViewById(R.id.btnBir);
     btniki = findViewById(R.id.btniki);
